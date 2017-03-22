@@ -6,7 +6,7 @@
 package practica;
 
 import java.util.ArrayList;
-import practica2.Transition.Action;
+import practica.Transition.Action;
 
 /**
  *
